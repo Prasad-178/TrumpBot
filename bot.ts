@@ -12,7 +12,7 @@ config();
 
 const links = [
     "https://www.google.com/search?client=firefox-b-d&q=donald+trump",
-    // "https://en.wikipedia.org/wiki/Donald_Trump",
+    "https://en.wikipedia.org/wiki/Donald_Trump",
     "https://x.com/realDonaldTrump?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
     "https://www.facebook.com/DonaldTrump/",
     "https://www.instagram.com/realdonaldtrump/?hl=en",
