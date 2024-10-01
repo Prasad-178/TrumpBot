@@ -2,7 +2,7 @@
 
 This repository contains a Telegram bot that impersonates Donald J. Trump, the 45th President of the United States. The bot answers questions in the style of Trump, using relevant documentation and data sources to provide informative and entertaining responses. The bot is powered by a Retrieval-Augmented Generation (RAG) system using the Gaianet Gemma LLM model and fetches relevant documents to enhance responses.
 
-Telegram Bot Link: [https://t.me/YourTrumpBot](https://t.me/YourTrumpBot)
+Telegram Bot Link: [https://t.me/YourDonaldTrumpBot](https://t.me/YourDonaldTrumpBot)
 
 ## Features
 
